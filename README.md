@@ -4,6 +4,6 @@ Repositorio para los proyectos realizados en la asignatura "Creación Multimedia
 
 ## Equipo:
 
-- David Mateo García Vallejo
-- Manuel Alejandro Gallego Jiménez
-- José David Cardona Soto
+- David Mateo García Vallejo - davgarciava@unal.edu.co
+- Manuel Alejandro Gallego Jiménez - mgallegoj@unal.edu.co
+- José David Cardona Soto - jcardonaso@unal.edu.co
