@@ -126,22 +126,3 @@ void nuevoFractal() {
     fractales.add(ramas);
   }
 }
-
-/* DIBUJAR RAMA POR RAMA (MOVIMIENTO DE IZQUIERDA A DERECHA).
-void draw() {
-  background(0);
-  
-  if (indice >= ramas.size()){
-    delay(5000);
-    indice = 0;
-  }
-  
-  for(int i = 0; i <= indice; i++){
-    Fractal rama = ramas.get(i);
-    color colorRama = color(random(100,255), random(100,255), random(100,255));
-    rama.dibujar(colorRama);
-  }
-  
-  indice += 1;
-}
-*/
